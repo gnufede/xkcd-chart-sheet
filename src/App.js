@@ -45,6 +45,18 @@ class App extends React.Component {
         };
     }
 
+    getValue(element) {
+        return element.value;
+    }
+
+    applyChanges(changes) {
+        const grid = this.state.grid.map(row => [...row]);
+        changes.forEach(({cell, row, col, value}) => {
+            grid[row][col] = {...grid[row][col], value};
+        });
+        this.setState({zero:false, grid:grid});
+    }
+
     render() {
         return (
             <div>
@@ -65,14 +77,8 @@ class App extends React.Component {
                 <div className={'sheet-container'}>
                 <ReactDataSheet
                     data={this.state.grid}
-                    valueRenderer={(cell) => cell.value}
-                    onCellsChanged={changes => {
-                        const grid = this.state.grid.map(row => [...row]);
-                        changes.forEach(({cell, row, col, value}) => {
-                            grid[row][col] = {...grid[row][col], value};
-                        });
-                        this.setState({zero:false, grid:grid});
-                    }}
+                    valueRenderer={this.getValue}
+                    onCellsChanged={this.applyChanges}
                 />
                 </div>
             </div>
