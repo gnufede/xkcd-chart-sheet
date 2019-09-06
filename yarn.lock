@@ -2293,15 +2293,15 @@ chardet@^0.7.0:
   resolved "https://registry.yarnpkg.com/chardet/-/chardet-0.7.0.tgz#90094849f0937f2eedc2425d0d28a9e5f0cbad9e"
   integrity sha512-mT8iDcrh03qDGRRmoA2hmBJnxpllMR+0/0qlzjqZES6NdiWDcZkCNAk4rPFZ9Q85r27unkiNNg8ZOiwZXBHwcA==
 
-chart.xkcd-react@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/chart.xkcd-react/-/chart.xkcd-react-0.0.4.tgz#64a71aa61f657405d2fba81293c7b76bdabaca81"
-  integrity sha512-Ol3aYqxJoVfIfNgavd2u5czAOowb/9MNFdXt+PKY6st8sqc64ykPiTTwsd7DvagrYIGHOSG3T57l9fOl6rwuoQ==
+chart.xkcd-react@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/chart.xkcd-react/-/chart.xkcd-react-0.0.5.tgz#8be79aa77c9c0628e8f970dacfd42917632bab51"
+  integrity sha512-M5P3OslJCDVEy5CHJwhSUi+Negl6Fxd4oArQfHNLduTE/vsbMRuWBsYFeduC/r91fLeZ+BLPy5OB68Ffs02ZPA==
 
-chart.xkcd@^1.0.9:
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/chart.xkcd/-/chart.xkcd-1.0.9.tgz#4c9a348ad26023aee8dd007679700c82ad775e80"
-  integrity sha512-WBtN6+9+9eqGvBt6Vtj11WUzJgxaD8KckNnR9Oz+Wmt6FRVYt83sogf1dNwNOjRk8RKcQ86ggcIwXS74HO5/WA==
+chart.xkcd@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/chart.xkcd/-/chart.xkcd-1.1.2.tgz#d2c6d9d473c3555dfc2fe60105b934c2725bf8c0"
+  integrity sha512-y6nDuZx8prcwTHva1FsH3/vqjpnQOpyVjY/gCpUr8nnaFjbRRQbNn4rvSw54zQu9wfEA4ieOwGRO5BCFQdvrmQ==
   dependencies:
     d3-axis "^1.0.12"
     d3-scale "^3.0.1"

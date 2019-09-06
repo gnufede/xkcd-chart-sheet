@@ -4,8 +4,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "chart.xkcd": "^1.0.9",
-    "chart.xkcd-react": "^0.0.4",
+    "chart.xkcd": "^1.1.2",
+    "chart.xkcd-react": "^0.0.5",
     "gh-pages": "^2.1.1",
     "mathjs": "^3.10.0",
     "react": "^16.9.0",
