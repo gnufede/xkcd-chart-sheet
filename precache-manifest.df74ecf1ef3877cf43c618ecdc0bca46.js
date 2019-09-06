@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8403d7c852fc85408489705ebafa2c81",
+    "revision": "ebbb4bc7250b8aa5480af276716ea514",
     "url": "/xkcd-chart-sheet/index.html"
   },
   {
-    "revision": "8309534ad1b5071dd95f",
+    "revision": "f1f2a36ab0f5a1361363",
     "url": "/xkcd-chart-sheet/static/css/main.eab2ca4b.chunk.css"
   },
   {
-    "revision": "958183fb289190ce8886",
-    "url": "/xkcd-chart-sheet/static/js/2.8aa30d8c.chunk.js"
+    "revision": "416b9ccd28183987a601",
+    "url": "/xkcd-chart-sheet/static/js/2.544b8842.chunk.js"
   },
   {
-    "revision": "8309534ad1b5071dd95f",
-    "url": "/xkcd-chart-sheet/static/js/main.5ad3cf03.chunk.js"
+    "revision": "f1f2a36ab0f5a1361363",
+    "url": "/xkcd-chart-sheet/static/js/main.6189508d.chunk.js"
   },
   {
     "revision": "35f5b808a22b609d810e",

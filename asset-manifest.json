@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/xkcd-chart-sheet/static/css/main.eab2ca4b.chunk.css",
-    "main.js": "/xkcd-chart-sheet/static/js/main.5ad3cf03.chunk.js",
-    "main.js.map": "/xkcd-chart-sheet/static/js/main.5ad3cf03.chunk.js.map",
+    "main.js": "/xkcd-chart-sheet/static/js/main.6189508d.chunk.js",
+    "main.js.map": "/xkcd-chart-sheet/static/js/main.6189508d.chunk.js.map",
     "runtime~main.js": "/xkcd-chart-sheet/static/js/runtime~main.d473a84e.js",
     "runtime~main.js.map": "/xkcd-chart-sheet/static/js/runtime~main.d473a84e.js.map",
-    "static/js/2.8aa30d8c.chunk.js": "/xkcd-chart-sheet/static/js/2.8aa30d8c.chunk.js",
-    "static/js/2.8aa30d8c.chunk.js.map": "/xkcd-chart-sheet/static/js/2.8aa30d8c.chunk.js.map",
+    "static/js/2.544b8842.chunk.js": "/xkcd-chart-sheet/static/js/2.544b8842.chunk.js",
+    "static/js/2.544b8842.chunk.js.map": "/xkcd-chart-sheet/static/js/2.544b8842.chunk.js.map",
     "index.html": "/xkcd-chart-sheet/index.html",
-    "precache-manifest.0595b0003038b0a6ca2fd9d42292689c.js": "/xkcd-chart-sheet/precache-manifest.0595b0003038b0a6ca2fd9d42292689c.js",
+    "precache-manifest.df74ecf1ef3877cf43c618ecdc0bca46.js": "/xkcd-chart-sheet/precache-manifest.df74ecf1ef3877cf43c618ecdc0bca46.js",
     "service-worker.js": "/xkcd-chart-sheet/service-worker.js",
     "static/css/main.eab2ca4b.chunk.css.map": "/xkcd-chart-sheet/static/css/main.eab2ca4b.chunk.css.map"
   }

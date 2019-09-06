@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/xkcd-chart-sheet/precache-manifest.0595b0003038b0a6ca2fd9d42292689c.js"
+  "/xkcd-chart-sheet/precache-manifest.df74ecf1ef3877cf43c618ecdc0bca46.js"
 );
 
 self.addEventListener('message', (event) => {
