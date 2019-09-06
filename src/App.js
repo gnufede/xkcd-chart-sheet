@@ -18,21 +18,21 @@ class App extends React.Component {
         };
     }
 
-    getRow(rowIndex) {
+    getRow = (rowIndex) => {
         return this.state.grid[rowIndex].map(item => item.value);
     }
 
-    getRowHead(rowIndex) {
+    getRowHead = (rowIndex) => {
         return this.getRow(rowIndex)[0];
     }
-    getRowSecond(rowIndex) {
+    getRowSecond = (rowIndex) => {
         return this.getRow(rowIndex)[1];
     }
-    getRowTail(rowIndex) {
+    getRowTail = (rowIndex) => {
         return this.getRow(rowIndex).slice(1);
     }
 
-    getData() {
+    getData = () => {
         return {
             labels: this.getRowTail(1),
             datasets: [{
@@ -49,7 +49,7 @@ class App extends React.Component {
         return element.value;
     }
 
-    applyChanges(changes) {
+    applyChanges = (changes) => {
         const grid = this.state.grid.map(row => [...row]);
         changes.forEach(({cell, row, col, value}) => {
             grid[row][col] = {...grid[row][col], value};
